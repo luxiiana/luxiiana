@@ -1,7 +1,7 @@
-- 👋 Hola, mi nombre es Luciana (@luxiiana)
+- 👋 Hola, mi nombre es Luciana
 - 👀 Me gusta el arte y la tecnología
-- 🌱 Actualmente estudio en Ingeniería en Sistemas
-- 💞️ Me gusta el frontend y espero poder dedicarme a ello en el futuro
+- 🌱 Estudio en Ingeniería en Sistemas
+- 💞️ Me gusta diseñar y espero poder dedicarme a ello en el futuro
 
 <!---
 luxiiana/luxiiana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
