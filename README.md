@@ -1,7 +1,7 @@
-- 👋 Me llamo Luciana
+- 👋 Me llamo Luci
 - 👀 Me gusta el arte y la tecnología
-- 🌱 Estudio en Ingeniería en Sistemas
-- 💞️ Me gusta diseñar y espero poder dedicarme a ello en el futuro
+- 🌱 Estudio computadoras y códigos
+- 💞️ Me gusta diseñar y crear
 
 <!---
 luxiiana/luxiiana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
