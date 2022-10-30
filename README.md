@@ -1,4 +1,5 @@
-- 👋 Me llamo Luci
+## Hola :)
+- 👋 Me llamo Luciana
 - 👀 Me gusta el arte y la tecnología
 - 🌱 Estudio computadoras y códigos
 - 💞️ Me gusta diseñar y crear
