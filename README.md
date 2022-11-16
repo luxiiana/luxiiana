@@ -1,7 +1,7 @@
 # Hello person🪐
 ### Let me introduce myself...
-- 💫 Name: Lucy
-- 🔮 I love art and technology
+- 💫 My name is Luciana
+- 🔮 I love art and tech
 - 🫧 Software engineering
 - 🌙 Passionate for designing and creating stuff
 
