@@ -3,7 +3,7 @@
 - 💫 My name is Luciana
 - 🔮 I love art and tech
 - 🫧 Software engineering
-- 🌙 Passionate for designing and creating stuff
+- 🌙 Passionate for design and creating stuff
 
 <!---
 luxiiana/luxiiana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
